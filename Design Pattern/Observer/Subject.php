@@ -2,7 +2,11 @@
 
 require_once 'Observer.php';
 
-
+/**
+ * Subject
+ *
+ * will declare three methods.
+ */
 interface Subject
 {
 
