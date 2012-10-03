@@ -1,5 +1,9 @@
 <?php
-
+/**
+ * Iterator 
+ *
+ * interface with abstract methods for iterating collection
+ */
 interface Iterator 
 {
     public function current();
